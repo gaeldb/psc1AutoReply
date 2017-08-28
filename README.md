@@ -9,6 +9,8 @@ Le dossier envoyé en PJ est présent dans C:
 TODO:
 - Gérer la personnalisation du dossier envoyé avec la date de la formation.
 - Gérer la personnalisation du dossier envoyé avec les champs nom/prénom pré-remplis.
+- Enlever le debug
 - Utiliser un vrai langage et une vraie méthode.
+
 
 (Oui, c'est des VBA pour Outlook, le code est dirty, mais ca été fait en 20 min, sans plus de temps a y accorder)
